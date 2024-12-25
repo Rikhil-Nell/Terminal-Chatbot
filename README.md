@@ -20,7 +20,7 @@ TARS is a terminal-based chatbot inspired by the character TARS from *Interstell
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tars-terminal-chatbot.git
+   git clone https://github.com/Rikhil-Nell/Terminal-Chatbot.git
    cd tars-terminal-chatbot
    ```
 
