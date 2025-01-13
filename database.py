@@ -17,7 +17,6 @@ def embed_text(text: str) -> list[float]:
 
 # Store memory in the database
 def store_memory(user_id: str, role: str, content: str):
-    
     embedding = embed_text(content)
     response = supabase.table("memory").insert({
         "user_id": user_id,
